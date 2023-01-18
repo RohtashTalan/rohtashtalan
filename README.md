@@ -18,4 +18,4 @@
   
   
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohtashTalan&theme=radical" alt="RohtashTalan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohtashTalan" alt="RohtashTalan" /></p>
