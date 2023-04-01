@@ -4,7 +4,7 @@
 
 - 🌱 I’m **Full-Stack JavaScript Web Developer**
 
-- 💬 Ask me about **HTML,Css,JavaScript, Reactjs, Nextjs, Express.js, Node.js **
+- 💬 Ask me about **HTML, Css, Wordpress, TailwindCSS, JavaScript, Reactjs, Nextjs, Express.js, Node.js **
 
 - 📫 How to reach me **RohtashTalanCompany@gmail.com**
 - Resume : <a href="https://www.canva.com/design/DAFXEiQYmAc/p817P6LDeFfdgFnt8haQ6A/view?utm_content=DAFXEiQYmAc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"/>![image](https://img.shields.io/badge/Resume-red)</a>
