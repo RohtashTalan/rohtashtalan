@@ -7,7 +7,7 @@
 - 💬 Ask me about **HTML, Css, Wordpress, TailwindCSS, JavaScript, Reactjs, Nextjs, Express.js, Node.js **
 
 - 📫 How to reach me **RohtashTalanCompany@gmail.com**
-- Resume : <a href="https://www.canva.com/design/DAFXEiQYmAc/p817P6LDeFfdgFnt8haQ6A/view?utm_content=DAFXEiQYmAc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"/>![image](https://img.shields.io/badge/Resume-red)</a>
+- Resume : <a href="https://www.canva.com/design/DAForNOU54c/i-WpD5QGrtHHhIVHxJ51WA/view?utm_content=DAForNOU54c&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"/>![image](https://img.shields.io/badge/Resume-red)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
